@@ -1,3 +1,19 @@
+---
+title: Agentic RAG Chatbot
+emoji: 🤖
+colorFrom: blue
+colorTo: green
+sdk: gradio
+app_file: gradio_app.py
+pinned: false
+---
+
+🚀 Live Demo
+
+Try the deployed application:
+
+Hugging Face Space: https://huggingface.co/spaces/vaibhaviprakash2026/agentic-rag-chatbot
+
 ## Overview
 
 This project is an Agentic Retrieval-Augmented Generation (RAG) chatbot built using Python, LangChain, LangGraph, FAISS, Hugging Face Embeddings, Sentence Transformers, FLAN-T5, and Gradio.
