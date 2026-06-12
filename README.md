@@ -47,6 +47,20 @@ The sample PDF contains introductory concepts related to Artificial Intelligence
 
 ---
 
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run the Application
+
+```bash
+python gradio_app.py
+```
+
+---
+
 ## Workflow
 
 User Query
